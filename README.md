@@ -284,3 +284,5 @@ plot(fshift(1:end-1),fftshift(abs(fft(sig_filtred))))
 
 <img width="777" alt="Screenshot 2023-01-22 153930" src="https://user-images.githubusercontent.com/89936910/213921667-f640de0c-7202-40e6-9920-3a2cb6de5373.png">
 
+# Réalisé par : Shadia AIT EL CADI
+# Encadré par : Pr. AMMOUR Alae
