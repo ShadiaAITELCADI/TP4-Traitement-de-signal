@@ -169,6 +169,8 @@ plot(f,fctabs3);
 - En choisissant différentes fréquences de coupure et en les appliquant au filtrage dans l'espace des fréquences, on  observe que  des effets de suppression de fréquence pour des wc plus élevés. Le choix de wc optimal dépendra de la spécification du système et de la performance souhaitée.
 pour notre cas on constate que la composante à 50Hz est réduite ou supprimée .
 
+- Le filtre n'est pas idéal car il est impossible de créer un filtre parfait. Il y aura toujours une certaine perte d'informations. 
+
 <img width="777" alt="Screenshot 2023-01-22 143907" src="https://user-images.githubusercontent.com/89936910/213918842-7cf2f6ef-04e1-4a7f-95a1-02f36eb99573.png">
 
 5. Observez le signal y(t) obtenu, puis Comparer-le avec le signal que vous auriez souhaité obtenir. Conclusions ?
